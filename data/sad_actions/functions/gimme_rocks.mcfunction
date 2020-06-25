@@ -1,0 +1,2 @@
+execute as @a[nbt={Inventory:[{id:"minecraft:magma_cube_spawn_egg"}]}] run give @s minecraft:stone_button{display:{Name:'{"text":"Rock"}',Lore:['{"text":"What did you expect?"}']}}
+execute as @a[nbt={Inventory:[{id:"minecraft:magma_cube_spawn_egg"}]}] run clear @s minecraft:magma_cube_spawn_egg 1
