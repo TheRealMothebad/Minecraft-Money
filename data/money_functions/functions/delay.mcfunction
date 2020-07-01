@@ -1,1 +1,1 @@
-#schedule function new_player 10
+   
